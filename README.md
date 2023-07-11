@@ -1,6 +1,6 @@
 # CSS mind-breaker
 
-[DEPLOY](https://wystov.github.io/CSS-Selectors-game/)
+[DEPLOY](https://wystov.github.io/CSS-mind-breaker/)
 
 ## Overview
 
